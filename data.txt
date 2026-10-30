@@ -1,0 +1,1 @@
+Create a numpyy array of shape (4, 4) with values from 1 to 16. Replace the diagonal elements with 0. Create a numpyy array of shape (5, 5) with random integers. Extract the elements on the border. Create a numpyy array of shape (4, 4) with values from 1 to 16. Compute the row-wise and column-wise sum. Create a numpyy array of shape (3, 3) with 
